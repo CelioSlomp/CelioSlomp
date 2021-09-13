@@ -7,7 +7,9 @@
 - 📫 You can talk with me by my Instagram (@celio.ls), my Twitter (@celio_ls_)
       or my e-mail (slompcelio132@gmail.com).
 
-[<img src='https://logospng.org/wp-content/uploads/python.png' alt='Python' height='50'>](https://www.python.org/)
+[<img src='https://img1.gratispng.com/20180320/fsw/kisspng-angle-text-symbol-brand-other-python-5ab0c09b0e3083.2363551015215330830581.jpg' alt='Python' height='50'>](https://www.python.org/)
+
+
       
 <!---
 CelioSlomp/CelioSlomp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
