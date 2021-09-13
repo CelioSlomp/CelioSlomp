@@ -7,7 +7,7 @@
 - 📫 You can talk with me by my Instagram (@celio.ls), my Twitter (@celio_ls_)
       or my e-mail (slompcelio132@gmail.com).
 
-[<img src='https://img2.gratispng.com/20180509/gvq/kisspng-computer-icons-python-programming-language-5af3b9e657db44.4301672315259222783599.jpg' alt='Python' height='50'>](https://www.python.org/)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png' alt='Python' height='50'>](https://www.python.org/)
 
 
       
