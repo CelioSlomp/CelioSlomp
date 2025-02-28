@@ -1,12 +1,14 @@
 ## Sobre mim ✋
 
-- 🙍‍♂️ Olá, tudo bem? Eu sou o Celio Ludwig Slomp, sou brasileiro e tenho 19 anos.
+- 🙍‍♂️ Olá, tudo bem? Eu sou o Celio Ludwig Slomp, sou brasileiro e tenho 22 anos;
 
-- 📚 Tenho curso técnico em informática pelo IFC - Campus Blumenau, onde estou cursando bacharelado em ciência da computação.
+- 📚 Tenho curso técnico em informática pelo IFC;
 
-- ✨ No momento eu gostaria de trabalhar como backend ou fullstack.
+- 🖥️ Atualmente estou cursando Ciência da Computação no IFC;
 
-- 💭 No momento eu estou aprendendo Python, Java, C++, PostgreSQL, HTML, CSS e Javascript.
+- ✨ Eu gostaria de poder trabalhar na área de desenvolvimento de software.
+
+- 💭 Tenho conhecimento de Python, Java, C/C++, PostgreSQL, HTML, CSS e Javascript.
 
 
 ## Redes Sociais 📫
