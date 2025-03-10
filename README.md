@@ -6,7 +6,7 @@
 
 - 🖥️ Atualmente estou cursando Ciência da Computação no IFC;
 
-- ✨ Eu gostaria de poder trabalhar na área de desenvolvimento de software.
+- ✨ Eu gostaria de trabalhar na área de desenvolvimento de software.
 
 - 💭 Tenho conhecimento de Python, Java, C/C++, PostgreSQL, HTML, CSS e Javascript.
 
